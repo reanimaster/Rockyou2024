@@ -4,4 +4,6 @@ Hi guys. Have many people heard about the 2024 leak of an excellent password dat
 One person removed duplicates and passwords of less than 6 characters and more than 22 from there and received a 1.7 GB document
 https://mega.nz/file/XaIDwawA#K6SFtk9TkFq9Zla1XpvH6ugeVGtZZceJ1BPhpUSHl30
 
+If you want to support me, download from here: http://cloudsaze.com/file/14b1352 (although a like is enough)
+
 Use this only for educational and research purposes!
